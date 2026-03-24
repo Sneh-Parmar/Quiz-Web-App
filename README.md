@@ -30,4 +30,4 @@ This is a modern interactive quiz web application developed using HTML, CSS, and
 
 ## Author
 
-Sneh
+Sneh Parmar
